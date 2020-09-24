@@ -1,0 +1,25 @@
+#log-in-col {
+  display: flex;
+  background-color: blue;
+  height: 20vw;
+}
+.image-row {
+  display: flex;
+  height: 40px;
+  width: 40px;
+}
+.facebook-logo {
+  display: flex;
+  height: 40px;
+  width: 40px;
+}
+#log-into-facebook-here-row {
+  display: flex;
+  background-color: red;
+  height: 40vw;
+}
+#different-languages-row {
+  display: flex;
+  background-color: darkgreen;
+  height: 40vw;
+}
