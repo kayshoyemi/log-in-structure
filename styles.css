@@ -3,15 +3,17 @@
   background-color: blue;
   height: 20vw;
 }
-.image-row {
+.facebook-logo {
+  background-color: solid black;
   display: flex;
   height: 40px;
   width: 40px;
 }
-.facebook-logo {
+#log-in-email-password {
   display: flex;
-  height: 40px;
-  width: 40px;
+}
+#facebook-row {
+  display: flex;
 }
 #log-into-facebook-here-row {
   display: flex;
